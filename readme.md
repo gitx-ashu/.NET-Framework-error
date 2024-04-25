@@ -1,4 +1,4 @@
-### Recently Windows performed an update on my computer that has seemingly corrupted my .NET Framework installation. Every time I start up my computer and certain apps, I get notified that things can't be opened because I don't have NET version 4.0.3019.  The two applications that consistently won't run are GTXDownloadWrapper.exe and Overwolf.exe.
+### Recently Windows performed an update on my computer that has seemingly corrupted my .NET Framework installation. Every time I start up my computer and certain apps, I get notified that things can't be opened because I don't have NET version
 ### in this case I recommend that you try to install again those programs that are affected by this error;
 
 ## All process step by step given from here

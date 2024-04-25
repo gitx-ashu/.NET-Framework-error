@@ -2,17 +2,17 @@
 ### in this case I recommend that you try to install again those programs that are affected by this error;
 
 ## All process step by step given from here
-1. Run the Windows repair tools:
+### Run the Windows repair tools:
 
-2. Press the Windows + X keys, select Command Prompt (Admin), copy and paste the commands below and press enter after each command.
+1. Press the Windows + X keys, select Command Prompt (Admin), copy and paste the commands below and press enter after each command.
 
-3. sfc /scannow 
+2. sfc /scannow 
 
-4. dism /online /cleanup-image /CheckHealth
+3. dism /online /cleanup-image /CheckHealth
 
-5. dism /online /cleanup-image /restorehealth
+4. dism /online /cleanup-image /restorehealth
 
-6. chkdsk /f /r /b
+5. chkdsk /f /r /b
 
 
 Confirm with S and then Enter to schedule a disk scan. Restart the equipment and as soon as you finish, check if you agree.
